@@ -11,13 +11,12 @@ An open-source healthcare technology initiative by
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](CONTRIBUTING.md)
-[GitHub](https://github.com/taranrainmaker) | [Saweria](https://saweria.co/taranrainmaker)
-[GitHub](https://github.com/taranrainmaker) | [Saweria](https://saweria.co/taranrainmaker)
-[GitHub](https://github.com/taranrainmaker) | [Saweria](https://saweria.co/taranrainmaker)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/taranrainmaker)
+[![Support on Saweria](https://img.shields.io/badge/Support-Saweria-orange?style=flat-square)](https://saweria.co/taranrainmaker)
+[![Website](https://img.shields.io/badge/Website-Taran%20Rainmaker-0B1F3A?style=flat-square)](https://taranrainmaker.my.id)
 [![Pull Requests](https://img.shields.io/github/issues-pr/taranrainmaker/taranmidwife)](https://github.com/taranrainmaker/taranmidwife/pulls)
 [![Contributors](https://img.shields.io/github/contributors/taranrainmaker/taranmidwife)](https://github.com/taranrainmaker/taranmidwife/graphs/contributors)
 [![Last Commit](https://img.shields.io/github/last-commit/taranrainmaker/taranmidwife)](https://github.com/taranrainmaker/taranmidwife/commits/main)
-[![Support on Saweria](https://img.shields.io/badge/Saweria-Support%20Development-orange)](https://saweria.co/taranrainmaker)
 
 [Overview](#overview) •
 [Architecture](#architecture) •
@@ -263,7 +262,7 @@ See our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-TaranMidwife source code is distributed under the [MIT License](LICENSE().
+TaranMidwife source code is distributed under the [MIT License](LICENSE).
 
 The MIT License applies to the code covered by the license. Project names, logos, branding, and trademarks associated with TaranMidwife and PT Taran Rainmaker Group remain subject to applicable intellectual property rights.
 
@@ -271,13 +270,13 @@ The MIT License applies to the code covered by the license. Project names, logos
 
 Open-source development takes time, research, testing, and continuous improvement.
 
-If you find this project useful and would like to support its development, you can contribute through Saweria.
+If you find this project useful, you can support continued open-source development through GitHub Sponsors or Saweria.
 
 <br>
 
 <div align="center">
 
-> [Support TaranMidwife Development](https://saweria.co/taranrainmaker)
+> [Sponsor on GitHub](https://github.com/sponsors/taranrainmaker) · [Support via Saweria](https://saweria.co/taranrainmaker)
 
 </div>
 
@@ -289,6 +288,6 @@ If you find this project useful and would like to support its development, you c
 
 Healthcare Technology - Digital Innovation - Open Collaboration
 
-[GitHub](https://github.com/taranrainmaker) | [Saweria](https://saweria.co/taranrainmaker)
+[GitHub](https://github.com/taranrainmaker) | [GitHub Sponsors](https://github.com/sponsors/taranrainmaker) | [Saweria](https://saweria.co/taranrainmaker)
 
 </center>
