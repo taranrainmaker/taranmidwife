@@ -116,6 +116,8 @@ TaranMidwife
 │
 └── .github/
     └── Workflows and Repository Templates
+```
+
 ## Technology Stack
 
 | Component | Technology |
